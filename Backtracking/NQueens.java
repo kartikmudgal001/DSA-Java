@@ -1,6 +1,6 @@
 package Backtracking;
 
-public class NQueensBtr {
+public class NQueens {
     public static boolean isSafe(char board[][], int row, int col){
         //vertical up
         for(int i =row-1; i>=0; i--){

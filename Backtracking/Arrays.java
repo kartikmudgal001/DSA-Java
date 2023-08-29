@@ -1,6 +1,6 @@
 package Backtracking;
 
-public class ArrayBtr {
+public class Arrays {
     public static void changeArr(int arr[], int i , int val){
         //Base
         if(i==arr.length){

@@ -1,6 +1,6 @@
 package Backtracking;
 
-public class PermutationsBtr {
+public class Permutations {
     public static void findPermutations(String str, String ans){
         if(str.length()==0){
             System.out.println(ans);

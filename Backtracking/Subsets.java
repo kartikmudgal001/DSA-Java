@@ -1,6 +1,6 @@
 package Backtracking;
 
-public class SubsetBtr {
+public class Subsets {
     public static void findSubset(String str, String ans, int i){
         //base 
         if(i==str.length()){
